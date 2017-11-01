@@ -28,14 +28,26 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
-| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |
+| Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Reese Orsini | reeseorsini | https://reeseorsini.github.io/demorepo/ |
+| Olivia Ritchey   |   oliviaritchey|   <https://oliviaritchey.github.io/PSU16/> |
+| Cathy Wang      | CathyWang21    | <https://cathywang21.github.io/Demo/> |
 | David Weiss    | dhweiss99      | <https://dhweiss99.github.io/David-Weiss-Seminar-/>   |
 | Ian Willick     | izw8           | <https://izw8.github.io/Stat-seminar/>            |
-| Lee Koudela    | LeeKoudela     | https://leekoudela.github.io/Demo-Repo/  |
-| Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
+| Lee Koudela     | LeeKoudela       |  <https://leekoudela.github.io/Demo-Repo/>                |
+| David Chen     | thedavidchen         |  <https://thedavidchen.github.io/GitHub.Test/> |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
 | Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
 | Evan Lasek | elasek1518 | <https://elasek1518.github.io/Demo-Repo/> |
+| Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
+| Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
+| Luxin Wang      | sabrinawang06  |<https://sabrinawang06.github.io/PSU16/>           |
+| Yiyun Gong | yg1088 | <https://yg1088.github.io/Repo-Demo/> |
+| Bobby Kemp    | RobertKempIII     | <https://robertkempiii.github.io/Demo-Repo/>  |  
+| Ruisi Wang     | ruiswang        |  https://ruiswang.github.io/repodemo/               |
+| Brian Stella    | bms6130       | https://bms6130.github.io/Repo-Demo/      |
+| Weiye Dong| dongwayne|<https://dongwayne.github.io/Report-demo/> |
+
 <br>
 
 # Linking to other stuff 
