@@ -32,7 +32,8 @@ Assignment (10 pts):
 | Lee Koudela    | LeeKoudela     | https://leekoudela.github.io/Demo-Repo/  |
 | Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/
-| Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
+| Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |\
+| Weiye Dong| dongwayne|<https://dongwayne.github.io/Report-demo/> |
 <br>
 
 # Linking to other stuff 
