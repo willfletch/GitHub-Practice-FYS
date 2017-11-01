@@ -44,6 +44,7 @@ Assignment (10 pts):
 | Yiyun Gong | yg1088 | <https://yg1088.github.io/Repo-Demo/> |
 | Bobby Kemp    | RobertKempIII     | <https://robertkempiii.github.io/Demo-Repo/>  |  
 | Ruisi Wang     | ruiswang        |  https://ruiswang.github.io/repodemo/               |
+| Brian Stella    | bms6130       | https://bms6130.github.io/Repo-Demo/      |
 
 <br>
 
