@@ -41,8 +41,9 @@ Assignment (10 pts):
 | Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
 |  Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
 | Luxin Wang      | sabrinawang06  |<https://sabrinawang06.github.io/PSU16/>           |
-| Yiyun Gong | yg1088 | <https://yg1088.github.io/Repo-Demo/>
+| Yiyun Gong | yg1088 | <https://yg1088.github.io/Repo-Demo/> |
 | Bobby Kemp    | RobertKempIII     | <https://robertkempiii.github.io/Demo-Repo/>  |  
+| Ruisi Wang     | ruiswang        |  https://ruiswang.github.io/repodemo/               |
 
 <br>
 
