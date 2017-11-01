@@ -38,6 +38,7 @@ Assignment (10 pts):
 | David Chen     | thedavidchen         |  <https://thedavidchen.github.io/GitHub.Test/> |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
 | Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
+| Evan Lasek | elasek1518 | <https://elasek1518.github.io/Demo-Repo/> |
 | Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
 | Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
 | Luxin Wang      | sabrinawang06  |<https://sabrinawang06.github.io/PSU16/>           |
