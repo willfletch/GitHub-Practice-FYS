@@ -28,8 +28,8 @@ Assignment (10 pts):
 
 |Name                   |GitHub ID         |website for a GitHub repo  |  
 |:----------------------|:-----------------|:--------------------------|  
-| Reese Orsini | reeseorsini | https://reeseorsini.github.io/demorepo/ |
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
+| Reese Orsini | reeseorsini | https://reeseorsini.github.io/demorepo/ |
 | Olivia Ritchey   |   oliviaritchey|   <https://oliviaritchey.github.io/PSU16/> |
 | Cathy Wang      | CathyWang21    | <https://cathywang21.github.io/Demo/> |
 | David Weiss    | dhweiss99      | <https://dhweiss99.github.io/David-Weiss-Seminar-/>   |
@@ -42,6 +42,7 @@ Assignment (10 pts):
 |  Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
 | Luxin Wang      | sabrinawang06  |<https://sabrinawang06.github.io/PSU16/>           |
 | Yiyun Gong | yg1088 | <https://yg1088.github.io/Repo-Demo/>
+| Bobby Kemp    | RobertKempIII     | <https://robertkempiii.github.io/Demo-Repo/>  |  
 
 <br>
 
