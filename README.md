@@ -39,12 +39,13 @@ Assignment (10 pts):
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
 | Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
 | Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
-|  Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
+| Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
 | Luxin Wang      | sabrinawang06  |<https://sabrinawang06.github.io/PSU16/>           |
 | Yiyun Gong | yg1088 | <https://yg1088.github.io/Repo-Demo/> |
 | Bobby Kemp    | RobertKempIII     | <https://robertkempiii.github.io/Demo-Repo/>  |  
 | Ruisi Wang     | ruiswang        |  https://ruiswang.github.io/repodemo/               |
 | Brian Stella    | bms6130       | https://bms6130.github.io/Repo-Demo/      |
+| Weiye Dong| dongwayne|<https://dongwayne.github.io/Report-demo/> |
 
 <br>
 
