@@ -34,7 +34,7 @@ Assignment (10 pts):
 | Cathy Wang      | CathyWang21    | <https://cathywang21.github.io/Demo/> |
 | David Weiss    | dhweiss99      | <https://dhweiss99.github.io/David-Weiss-Seminar-/>   |
 | Ian Willick     | izw8           | <https://izw8.github.io/Stat-seminar/>            |
-| Lee Koudela    | LeeKoudela     | https://leekoudela.github.io/Demo-Repo/  |
+| Lee Koudela     | LeeKoudela       |  <https://leekoudela.github.io/Demo-Repo/>                |
 | David Chen     | thedavidchen         |  <https://thedavidchen.github.io/GitHub.Test/> |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/ |
 | Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
