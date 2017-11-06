@@ -48,6 +48,7 @@ Assignment (10 pts):
 | Ruisi Wang     | ruiswang        |  https://ruiswang.github.io/repodemo/               |
 | Brian Stella    | bms6130       | https://bms6130.github.io/Repo-Demo/      |
 | Weiye Dong| dongwayne|<https://dongwayne.github.io/Report-demo/> |
+| Jessica Schick    | jessicaschick    |<https://jessicaschick.github.io/repodemo/> |
 
 <br>
 
