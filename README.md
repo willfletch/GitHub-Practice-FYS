@@ -49,6 +49,7 @@ Assignment (10 pts):
 | Brian Stella    | bms6130       | https://bms6130.github.io/Repo-Demo/      |
 | Weiye Dong| dongwayne|<https://dongwayne.github.io/Report-demo/> |
 | Katherine Pham | katherinepham | https://katherinepham.github.io/Demo--R/ |
+
 <br>
 
 # Linking to other stuff 
