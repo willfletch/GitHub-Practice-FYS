@@ -49,6 +49,10 @@ Assignment (10 pts):
 | Brian Stella    | bms6130       | https://bms6130.github.io/Repo-Demo/      |
 | Weiye Dong| dongwayne|<https://dongwayne.github.io/Report-demo/> |
 | Tianyu Liang| tianyuliangKevin| <https://tianyuliangkevin.github.io/Demo-Repo/>|
+| Jessica Schick    | jessicaschick    |<https://jessicaschick.github.io/repodemo/> |
+| Deric Liang| dliang5299 | <https://dliang5299.github.io/Demo-Repo/> |
+| Katherine Pham | katherinepham | https://katherinepham.github.io/Demo--R/ |
+
 <br>
 
 # Linking to other stuff 
