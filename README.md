@@ -38,7 +38,7 @@ Assignment (10 pts):
 | Ian Willick     | izw8           | <https://izw8.github.io/Stat-seminar/>            |
 | Lee Koudela     | LeeKoudela       |  <https://leekoudela.github.io/Demo-Repo/>                |
 | David Chen     | thedavidchen         |  <https://thedavidchen.github.io/GitHub.Test/> |
-| Matt Cash | mdcash | https://mdcash.github.io/Repo-Demo/ |
+| Matt Cash | mdcash | <https://mdcash.github.io/Repo-Demo/> |
 | Evan Lasek | elasek1518 | <https://elasek1518.github.io/Demo-Repo/> |
 | Priti Khire    | prikhire      | <https://prikhire.github.io/new-repo/>   |
 | Cole Waldhausen |   CWaldhausen  |      <https://cwaldhausen.github.io/PSU-016-Demo/> |
